@@ -1,0 +1,10 @@
+---
+title: "HelloWorld"
+author: "sara"
+date: "May 29, 2017"
+output:
+  word_document: default
+  html_document: default
+---
+
+##It is a markdown file
